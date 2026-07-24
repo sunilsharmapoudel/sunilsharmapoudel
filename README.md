@@ -65,7 +65,6 @@ Aspiring Software Engineer with full-stack (MERN) development experience, passio
 
 ## 📊 GitHub Stats
 
-![Sunil's GitHub stats](https://sunil-github-readme-stats-omega-two-59.vercel.app/api?username=sunilsharmapoudel&show_icons=true&theme=default&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sunilsharmapoudel&hide_border=true)
 
 ## 🏆 GitHub Trophies
